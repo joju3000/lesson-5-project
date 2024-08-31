@@ -1,0 +1,91 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    
+    <head>
+    
+    <body>
+        <title>project</title>
+        <h1>CHRIST THE REDEEMERS COLLEGE CHRISTHILL</h1>
+        <h3>
+            <address>Ikorodu - Shagamu Rd, Sagamu 121102, Ogun State
+                Christ the Redeemer's College, address</address>
+        </h3>
+        <h4>CRC in Brief
+            WE OFFER YOUR WARDS THE BEST
+            Christ the Redeemer’s College was founded on the 1st of October 1996 by the General Overseer of the Redeemed
+            Christian
+            Church Of God, Pastor E.A. Adeboye. The College is situated on 21.8 hectares of land along the Sagamu-Ikorodu
+            Road
+            (Km.14), ChristHill in Ogun State Nigeria. It is a very serene environment nestled among the Kola nut Trees for
+            which
+            the ancient town of Sagamu is well known. This is an environment very conducive for teaching and learning
+            process. Ours
+            is a secondary school of high repute, built on Christian ethics and run on biblical principles to meet the
+            highest needs
+            of general National and International Educational requirements.</h4>
+        <h4>Christ The Redeemer’s College, ChristHill, Sagamu is one of the schools in the CRSM ( Christ The Redeemer’s
+            School
+            Movement), an arm of the directorate of Children & Teens Education of the Redeemed Christian Church of God
+            (RCCG).
+            Pastor (Mrs.) Folu Adeboye, the wife of the General overseer, Pastor E.A. Adeboye, is the director of Children &
+            Teen
+            Education and the Chairman of the CRSM.</h4>
+        <p>OUR VISION</p>
+        <h4> 1981, began a new era in the Redeemed Christian Church of God, when Pastor Enoch Adejare Adeboye became the
+            General Overseer. Among the very first prophecies he pronounced was one to do with education. He talked of a
+            school
+            system that would be totally Christian, based on the word of God, run by spirit-filled Christians and on
+            Christian
+            principles. This educational system would start at the pre-school level and run through to the tertiary level.
+    
+            If no one took him seriously, one person certainly did and she did not let the vision slip from her.
+            Mother-in-Israel,
+            our Mummy Pastor (Mrs.) Folu Adeboye believed in the word of God as spoken by His prophet and so some 25years
+            ago, she
+            started the vision rolling by establishing what is today the first in a chain of pre-school/primary and
+            secondary
+            schools all across our nation, Nigeria.
+    
+            It is pertinent to note that CRC, was the first Secondary School in the link to be established when it was
+            dedicated on
+            1st October, 1996. The vision has since reached the tertiary level with the opening of the Redeemer’s University
+            for All
+            Nations (RUN). A great vision on the run.</h4>
+        <h2>IMAGES OF OUR SCHOOL</h2>
+        <figure>
+            <img src=CRC-PNG-LOGO.png alt="#">
+            <figcaption>OUR LOGO</figcaption>
+        </figure>
+        <figure>
+            <img src=DSC_5218-768x509-1.jpg alt="#">
+            <figcaption>OUTDOOR SPORTS</figcaption>
+        </figure>
+        <figure>
+            <img src=Fah5WS1VEAAD4HU.jpg alt="#">
+            <figcaption>OUR GRADUATING SET</figcaption>
+        </figure>
+        <H3>here's a about us</H3>
+        <iframe width="650" height="718" src="https://www.youtube.com/embed/OfPEIaF7JgU"
+            title="2020/2021 ENTRANCE EXAMINATION DETAILS" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <h3>For more enquiries click any of the headings below</h3>
+            <header>
+                <nav>
+                    <ul>
+                        <li><a href="#">home</a></li>
+                        <li> <a href="#">about us</a></li>
+                        <li><a href="#">contact us</a></li>
+                        <footer>
+                            <p>
+                                <center>feel free to contact us at +123456789</center>
+                            </p>
+                        </footer>
+                    </ul>
+                </nav>
+            </header>
+        </head>
+    </body>
+    
+    </html>
